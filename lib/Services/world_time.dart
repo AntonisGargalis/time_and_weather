@@ -35,4 +35,4 @@ class WorldTime {
   }
 }
 
-WorldTime instance = WorldTime(location: 'Berlin', flag: 'germany.png', url: 'Europe/Berlin');
+WorldTime instance = WorldTime(location: 'Athens', flag: 'athens.png', url: 'Europe/Greece');
