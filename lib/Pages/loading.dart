@@ -27,6 +27,7 @@ class _LoadingState extends State<Loading> {
     super.initState();
     setupWorldTime();
   }
+
   @override
   Widget build(BuildContext context) {
     return  const Scaffold(
